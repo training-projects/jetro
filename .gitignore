@@ -1,2 +1,5 @@
+# Project
 psd/
 .DS_Store
+.sass-cache
+node_modules
